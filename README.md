@@ -13,7 +13,8 @@ Our model has been rigorously tested in controlled environments, demonstrating s
 
 You can download the full training set of images used [here](https://www.dropbox.com/s/rrh8lrdclzlnxzv/full_CNN_train.p?dl=0) and the full set of labels [here](https://www.dropbox.com/s/ak850zqqfy6ily0/full_CNN_labels.p?dl=0).
 
-![Github upload](https://github.com/Mihaillo29/Design-and-Development-of-Computer-Vision-Based-Arduino-Car/assets/117961472/b1a69e17-c669-4755-b2b9-0f3c71b93578)
+![Github upload](https://github.com/Mihaillo29/Design-and-Development-of-Computer-Vision-Based-Arduino-Car/assets/117961472/c97b1ba6-1992-4cdd-a862-e7c1ca7b1950)
+
 
 ## How the Code Works 
 > Run ```main.py``` after setting up your arduino car
